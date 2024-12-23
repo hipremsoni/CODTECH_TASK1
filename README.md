@@ -40,17 +40,8 @@ The Password Strength Checker is a Python tool designed to evaluate the strength
 ## Example
 
 Here's a sample run of the tool:
+![image](https://github.com/user-attachments/assets/6d1df72f-f398-4835-b6d4-dd108140b3a6)
 
-```plaintext
-Password Strength Checker
-- By Premkumar Soni
-
-### Password Strength Checker ###
-Enter The Password :
-Entered Password: My$ecureP@ssw0rd
-Password is: Extreme Strong
-Score: 5/5
-```
 
 ## License
 
