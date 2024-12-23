@@ -15,10 +15,10 @@ The Password Strength Checker is a Python tool designed to evaluate the strength
 - Provides feedback on how to strengthen the password
 
 ## Installation
-
+```
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
+   git clone https://github.com/hipremsoni/CODTECH_TASK1.git
    cd password-strength-checker
    ```
 
