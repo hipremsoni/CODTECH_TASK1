@@ -64,10 +64,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [pyfiglet](https://github.com/pwaller/pyfiglet) for ASCII art generation
 - [termcolor](https://pypi.org/project/termcolor/) for colored terminal text
-
-```
-
-
-
-
-
