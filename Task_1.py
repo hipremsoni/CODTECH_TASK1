@@ -1,3 +1,4 @@
+# Password Strength Checker 
 import re
 import pyfiglet
 from termcolor import colored
