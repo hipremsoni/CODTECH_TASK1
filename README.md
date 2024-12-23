@@ -14,6 +14,7 @@ The Password Strength Checker is a Python tool designed to evaluate the strength
 - Verifies the inclusion of special characters
 - Provides feedback on how to strengthen the password
 ```
+```
 ## Installation
 
 1. **Clone the repository**:
