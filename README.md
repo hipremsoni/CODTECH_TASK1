@@ -1,8 +1,7 @@
 # CODTECH_TASK1
 
-```markdown
 # Password Strength Checker
-```
+
 ## Overview
 
 The Password Strength Checker is a Python tool designed to evaluate the strength of passwords based on various criteria such as length, complexity, and the presence of special characters. The tool provides feedback to help users create stronger passwords.
@@ -13,8 +12,7 @@ The Password Strength Checker is a Python tool designed to evaluate the strength
 - Ensures the presence of digits, uppercase, and lowercase letters
 - Verifies the inclusion of special characters
 - Provides feedback on how to strengthen the password
-```
-```
+
 ## Installation
 
 1. **Clone the repository**:
@@ -29,6 +27,7 @@ The Password Strength Checker is a Python tool designed to evaluate the strength
    ```bash
    pip install -r requirements.txt
    ```
+
 3. **Run the tool**:
    ```bash
    python3 Task_1.py
@@ -65,3 +64,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [pyfiglet](https://github.com/pwaller/pyfiglet) for ASCII art generation
 - [termcolor](https://pypi.org/project/termcolor/) for colored terminal text
+
