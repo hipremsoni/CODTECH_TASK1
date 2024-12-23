@@ -28,15 +28,14 @@ The Password Strength Checker is a Python tool designed to evaluate the strength
    ```bash
    pip install -r requirements.txt
    ```
+3. **Run the tool**:
+   ```bash
+   python3 Task_1.py
+   ```
 
 ## Usage
 
-1. **Run the tool**:
-   ```bash
-   python Task_1.py
-   ```
-
-2. **Enter the password** when prompted. The tool will evaluate the strength of the password and provide feedback.
+1. **Enter the password** when prompted. The tool will evaluate the strength of the password and provide feedback.
 
 ## Example
 
