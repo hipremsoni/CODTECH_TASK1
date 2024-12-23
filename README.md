@@ -2,7 +2,7 @@
 
 ```markdown
 # Password Strength Checker
-
+```
 ## Overview
 
 The Password Strength Checker is a Python tool designed to evaluate the strength of passwords based on various criteria such as length, complexity, and the presence of special characters. The tool provides feedback to help users create stronger passwords.
