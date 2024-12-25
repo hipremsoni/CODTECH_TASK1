@@ -8,7 +8,7 @@
 - ID : CTO8DBS
 - Domain : Cyber Security & Ethical Hacking
 - Duration: 20th Dec 2024 To 20th Jan 2025
-- Mentor : Muzammil Ahmed
+- Mentor : Neela Santhosh Kumar 
 
 ## Overview
 
