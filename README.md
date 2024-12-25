@@ -50,11 +50,6 @@ The Password Strength Checker is a Python tool designed to evaluate the strength
 Here's a sample run of the tool:
 ![image](https://github.com/user-attachments/assets/f0241ab8-ff42-4221-8fa8-0934705cc0de)
 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Language 
 - Python
 
